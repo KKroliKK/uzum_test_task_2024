@@ -15,6 +15,7 @@ REVIEWS_PATH = os.path.join(DATA_PATH, "reviews.parquet")
 TEST_PATH = os.path.join(DATA_PATH, "test.parquet")
 
 LID_176_MODEL_PATH = os.path.join(MODELS_PATH, "lid.176.bin")
+BEST_BASELINE_MODEL = os.path .join(MODELS_PATH, "best_baseline.cbm")
 
 FASTTEXT_RU_PATH = os.path.join(FASTTEXT_PATH, "cc.ru.300.bin")
 FASTTEXT_UZ_PATH = os.path.join(FASTTEXT_PATH, "cc.uz.300.bin")
