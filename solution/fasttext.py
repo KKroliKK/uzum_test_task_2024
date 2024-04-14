@@ -2,7 +2,7 @@ from typing import List
 
 import fasttext
 import numpy as np
-from tqdm import tqdm
+from tqdm.notebook import tqdm
 
 from solution.constants import LID_176_MODEL_PATH, FASTTEXT_RU_PATH, FASTTEXT_UZ_PATH
 
